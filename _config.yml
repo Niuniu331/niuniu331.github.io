@@ -25,7 +25,7 @@ author:
   avatar           : "ME.png"
   name             : Yijun Hao
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Earth"
   uri              : # URL
   email            : "none@example.org" 
